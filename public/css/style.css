@@ -1,0 +1,23 @@
+@media (min-width: 1200px) {
+    .carousel-item {
+    height: 75vh;
+    top: -175px;
+    }
+  }
+
+.logo {
+    font-size: 1.1rem;
+    font-weight: 900;
+    color: #fff;
+    letter-spacing: 3px;
+}
+
+.feature-icon {
+    width: 4rem;
+    height: 4rem;
+    border-radius: .75rem;
+  }
+
+.featurette-divider {
+    margin: 80px;
+}
